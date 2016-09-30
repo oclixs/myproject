@@ -37,7 +37,7 @@ a { color: #0036ff; text-decoration: none; outline: none; }
 	width: 800px;
 	height: 102px;
 	display: block;
-	background: url("https://github.com/oclixs/myproject/blob/master/header.gif");
+	background: url("https://raw.githubusercontent.com/oclixs/myproject/master/header.gif");
 }
 
 p#headline {
@@ -100,7 +100,7 @@ ul#main_points li {
 	float: right;
 	width: 378px;
 	height: 396px;
-	background: url("https://github.com/oclixs/myproject/blob/master/photo-2.png");
+	background: url("https://raw.githubusercontent.com/oclixs/myproject/master/photo-2.png");
 	margin-top: -1px;
 }
 
@@ -133,7 +133,7 @@ a.bigbuttonpurple {
     text-decoration: none; 
     width:388px; 
     height:99px; 
-    background-image: url("https://github.com/oclixs/myproject/blob/master/bigbutton-purple.gif"); 
+    background-image: url("https://raw.githubusercontent.com/oclixs/myproject/master/bigbutton-purple.gif"); 
     background-repeat:no-repeat; margin-top:12px;
 }
 
@@ -147,7 +147,7 @@ a.bigbuttongreen {
     text-decoration: none; 
     width:388px; 
     height:99px; 
-    background-image: url("https://github.com/oclixs/myproject/blob/master/bigbutton-green.gif"); 
+    background-image: url("https://raw.githubusercontent.com/oclixs/myproject/master/bigbutton-green.gif"); 
     background-repeat:no-repeat; margin-top:12px;
 }
 
@@ -161,7 +161,7 @@ a.smallbuttongreen {
     text-decoration: none; 
     width:108px; 
     height:49px; 
-    background-image: url("https://github.com/oclixs/myproject/blob/master/smallbutton-green.gif"); 
+    background-image: url("https://raw.githubusercontent.com/oclixs/myproject/master/smallbutton-green.gif"); 
     background-repeat:no-repeat;
 }
 
@@ -170,7 +170,7 @@ a.smallbuttonpurple {
     text-decoration: none; 
     width:108px; 
     height:49px; 
-    background-image: url("https://github.com/oclixs/myproject/blob/master/smallbutton-purple.gif"); 
+    background-image: url("https://raw.githubusercontent.com/oclixs/myproject/master/smallbutton-purple.gif"); 
     background-repeat:no-repeat;
 }
 
@@ -179,6 +179,6 @@ a.facebookbutton {
     text-decoration: none; 
     width:240px; 
     height:38px; 
-    background-image: url("https://github.com/oclixs/myproject/blob/master/facebook.gif"); 
+    background-image: url("https://raw.githubusercontent.com/oclixs/myproject/master/facebook.gif"); 
     background-repeat:no-repeat;
 }
