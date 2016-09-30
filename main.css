@@ -1,0 +1,184 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+*{font-family:arial,helvetica,sans-serif,tahoma,verdana,geneva,lucida,"lucida grande";}
+
+html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, pre, form, fieldset, table, th, td { 
+margin: 0; padding: 0; outline: none; color:#000000; 
+}
+
+body { 
+	font: 9pt/17pt arial; 
+	height: 100%;
+	background: #FFFFFF url('http://uberaffiliate.com/pages/zooskdating/images/bg.gif') repeat-x;
+	background-position: center-top;
+	outline: none;
+	}
+	
+.clear { 
+	clear: both;
+}
+	
+a { color: #0036ff; text-decoration: none; outline: none; }
+
+.displace {
+	position: absolute;
+	left: -5000px;
+	}
+
+#container {
+	display: block;
+	margin: 0 auto;
+	width: 800px;
+}
+
+#header {
+	width: 800px;
+	height: 102px;
+	display: block;
+	background: url(../images/header.gif);
+}
+
+p#headline {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 26px;
+	color: #ffffff;
+	float: right;
+	margin-right: 20px;
+	margin-top: 25px;
+}
+
+#col_headline {
+	width: 404px;
+	height: 29px;
+	background: url(../images/headline.gif);
+	margin-top: 26px;
+	background-repeat: no-repeat;
+}
+
+p#signup {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+
+ul#main_points {
+	list-style-type: none;
+	margin-left: 40px;
+	margin-top: 11px;
+}
+
+ul#main_points li {
+	display: block;
+	background: url(../images/heart.gif) no-repeat;
+	background-position: 0 4px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-indent: 18px;
+	margin-bottom: 4px;
+}
+
+#left_column {
+	display: inline;
+	float: left;
+}
+
+#right_column {
+	display: inline;
+	float: right;
+	width: 378px;
+	height: 396px;
+	background: url(../images/photo.gif);
+	margin-top: -1px;
+}
+
+#right_column2 {
+	display: inline;
+	float: right;
+	width: 378px;
+	height: 396px;
+	background: url(../images/photo-2.png);
+	margin-top: -1px;
+}
+
+#smallbutton {
+	width: 108px;
+	height: 49px;
+	margin-left: 245px;
+	margin-top: 13px;
+	
+}
+
+#footer {
+	width: 800px;
+	height: 98px;
+	background: #dfeaff;
+	margin-top: 500px;
+	display: block;
+}
+
+#facebook {
+	width: 240px;
+	height: 38px;
+	margin: 0 auto;
+	padding-top: 20px;
+	background-position:bottom;
+}
+
+a.bigbuttonpurple {
+    display: block; 
+    text-decoration: none; 
+    width:388px; 
+    height:99px; 
+    background-image: url("../images/bigbutton-purple.gif"); 
+    background-repeat:no-repeat; margin-top:12px;
+}
+
+a.bigbuttonpurple:hover {
+
+background-position: -388px 0;
+}
+
+a.bigbuttongreen {
+    display: block; 
+    text-decoration: none; 
+    width:388px; 
+    height:99px; 
+    background-image: url("../images/bigbutton-green.gif"); 
+    background-repeat:no-repeat; margin-top:12px;
+}
+
+a.bigbuttongreen:hover {
+
+background-position: -388px 0;
+}
+
+a.smallbuttongreen {
+    display: block; 
+    text-decoration: none; 
+    width:108px; 
+    height:49px; 
+    background-image: url("../images/smallbutton-green.gif"); 
+    background-repeat:no-repeat;
+}
+
+a.smallbuttonpurple {
+    display: block; 
+    text-decoration: none; 
+    width:108px; 
+    height:49px; 
+    background-image: url("../images/smallbutton-purple.gif"); 
+    background-repeat:no-repeat;
+}
+
+a.facebookbutton {
+    display: block; 
+    text-decoration: none; 
+    width:240px; 
+    height:38px; 
+    background-image: url("../images/facebook.gif"); 
+    background-repeat:no-repeat;
+}
